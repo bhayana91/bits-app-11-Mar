@@ -1,0 +1,8 @@
+site_name: "bits-app-11-Mar"
+site_description: "new app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

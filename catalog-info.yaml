@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "bits-app-11-Mar"
+  description: "new app"
+  annotations:
+    github.com/project-slug: bhayana91/bits-app-11-Mar
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "user:default/bhayana91"
