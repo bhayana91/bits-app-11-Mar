@@ -4,7 +4,7 @@ metadata:
   name: "bits-app-11-Mar"
   description: "new app"
   annotations:
-    github.com/project-slug: bhayana91/bits-app-11-Mar
+    github.com/project-slug: bhayana91/react-app-deploy
     backstage.io/techdocs-ref: dir:.
 spec:
   type: website
